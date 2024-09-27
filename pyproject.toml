@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "U.N. Owen", email = "void@some.where" },
+  { name = "AkashGupta", email = "akashkgupta2000@gmail.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -27,9 +27,9 @@ classifiers = [
 dependencies = ["pandas==2.2.3","scikit-learn==1.5.2"]
 
 [project.urls]
-Documentation = "https://github.com/U.N. Owen/mlexercises#readme"
-Issues = "https://github.com/U.N. Owen/mlexercises/issues"
-Source = "https://github.com/U.N. Owen/mlexercises"
+Documentation = "https://github.com/AkashGupta/mlexercises#readme"
+Issues = "https://github.com/AkashGupta/mlexercises/issues"
+Source = "https://github.com/AkashGupta/mlexercises"
 
 [tool.hatch.version]
 path = "src/mlexercises/__about__.py"
